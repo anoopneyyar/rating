@@ -1,0 +1,39 @@
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T05:08:54.955Z"}
+[32minfo[39m: Error: Path not found {"timestamp":"2022-06-08T05:09:34.194Z"}
+[32minfo[39m: Error: Path not found {"timestamp":"2022-06-08T05:14:27.540Z"}
+[31merror[39m: Error occure while getting userCan't find user with this ID {"timestamp":"2022-06-08T05:19:37.916Z"}
+[31merror[39m: Error occure while retrieving dataCan't find user with this ID {"timestamp":"2022-06-08T05:19:37.918Z"}
+[31merror[39m: Error occure while getting userCan't find user with this ID {"timestamp":"2022-06-08T05:20:40.516Z"}
+[31merror[39m: Error occure while retrieving dataCan't find user with this ID {"timestamp":"2022-06-08T05:20:40.518Z"}
+[31merror[39m: Error occure while getting userCan't find user with this ID {"timestamp":"2022-06-08T05:22:53.733Z"}
+[31merror[39m: Error occure while retrieving dataCan't find user with this ID {"timestamp":"2022-06-08T05:22:53.733Z"}
+[32minfo[39m: Error: Path not found {"timestamp":"2022-06-08T05:23:00.130Z"}
+[31merror[39m: Error occure while getting userCan't find user with this ID {"timestamp":"2022-06-08T05:23:13.120Z"}
+[31merror[39m: Error occure while retrieving dataCan't find user with this ID {"timestamp":"2022-06-08T05:23:13.121Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T05:24:26.226Z"}
+[31merror[39m: Error occure while getting userCan't find user with this ID {"timestamp":"2022-06-08T05:24:31.250Z"}
+[31merror[39m: Error occure while retrieving dataCan't find user with this ID {"timestamp":"2022-06-08T05:24:31.251Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T05:24:52.091Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:03:43.993Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:04:16.888Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:20:10.190Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:23:38.559Z"}
+[31merror[39m: Create error  User has already rated this post {"httpcode":500,"timestamp":"2022-06-08T06:23:42.618Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:25:36.739Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:32:30.769Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:34:03.704Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:34:34.037Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:35:37.162Z"}
+[32minfo[39m: Error: Path not found {"timestamp":"2022-06-08T06:50:38.078Z"}
+[32minfo[39m: Error: Path not found {"timestamp":"2022-06-08T06:51:50.089Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:52:13.868Z"}
+[31merror[39m: Error occure while getting userCast to ObjectId failed for value "v101" (type string) at path "_id" for model "ratings" {"timestamp":"2022-06-08T06:52:14.713Z"}
+[31merror[39m: Error occure while retrieving dataCast to ObjectId failed for value "v101" (type string) at path "_id" for model "ratings" {"timestamp":"2022-06-08T06:52:14.714Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:52:56.348Z"}
+[31merror[39m: Error occure while retrieving dataratingServices.find is not a function {"timestamp":"2022-06-08T06:53:03.601Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:53:43.138Z"}
+[31merror[39m: Error occure while getting userParameter "filter" to find() must be an object, got v101 {"timestamp":"2022-06-08T06:53:44.759Z"}
+[31merror[39m: Error occure while retrieving dataParameter "filter" to find() must be an object, got v101 {"timestamp":"2022-06-08T06:53:44.760Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:54:21.204Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:54:49.506Z"}
+[32minfo[39m: Mongoose default connection open {"timestamp":"2022-06-08T06:55:11.381Z"}
